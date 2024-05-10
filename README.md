@@ -9,7 +9,7 @@ Listagem de pedidos:
 ![image](https://github.com/gabe-brum/market-frontend/assets/52430344/3626d642-1214-4547-81b9-ac39a0004c31)
 
 ### Rodar frontend alimentado pelo backend
-Considerando que a API está rodando, para rodar o frontend basta rodar `npm run dev` que a aplicação abrirá na prota 5173
+Considerando que a API está rodando, para rodar o frontend basta rodar `npm run dev` que a aplicação abrirá na porta 5173
 
 ### Rodar frontend utilizando mocks
 Nesse projeto foram criados os mocks para que seja possível subir a aplicação frontend mesmo sem ter o backend rodando. Para isso, rode `npm run dev:test`.
